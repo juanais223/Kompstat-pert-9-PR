@@ -9,3 +9,4 @@ max(x)
 sd(x)
 range(x)
 
+summary(x)
